@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Solanki</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack web developer with a specialization in MERN stack.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1200/1*Y5S3wOm52_4iYusUagbEtw.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket2910&label=Profile%20views&color=0e75b6&style=flat" alt="aniket2910" /> </p>
